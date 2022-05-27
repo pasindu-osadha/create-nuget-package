@@ -5,6 +5,7 @@
     <RootNamespace>create_nuget_package</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <PackageId>create-nuget-package-sample</PackageId>
   </PropertyGroup>
 
 </Project>
