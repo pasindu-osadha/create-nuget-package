@@ -6,5 +6,10 @@
         {
             Console.WriteLine(msg);
         }
+
+        public string upperCaseWord(string txt)
+        {
+            return txt.ToUpper();
+        }
     }
 }
